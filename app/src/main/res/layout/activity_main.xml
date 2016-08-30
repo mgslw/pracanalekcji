@@ -10,7 +10,8 @@
     android:layout_height="150dp"
     android:src="@drawable/android"
     android:scaleType="centerCrop"
-    />
+    android:layout_centerVertical="true"
+    android:layout_alignParentEnd="true" />
 
 
 </RelativeLayout>
